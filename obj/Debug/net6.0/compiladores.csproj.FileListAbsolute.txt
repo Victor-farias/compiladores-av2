@@ -1,0 +1,15 @@
+C:\Users\vrvi\repos\compiladores\bin\Debug\net6.0\compiladores.exe
+C:\Users\vrvi\repos\compiladores\bin\Debug\net6.0\compiladores.deps.json
+C:\Users\vrvi\repos\compiladores\bin\Debug\net6.0\compiladores.runtimeconfig.json
+C:\Users\vrvi\repos\compiladores\bin\Debug\net6.0\compiladores.dll
+C:\Users\vrvi\repos\compiladores\bin\Debug\net6.0\compiladores.pdb
+C:\Users\vrvi\repos\compiladores\obj\Debug\net6.0\compiladores.csproj.AssemblyReference.cache
+C:\Users\vrvi\repos\compiladores\obj\Debug\net6.0\compiladores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vrvi\repos\compiladores\obj\Debug\net6.0\compiladores.AssemblyInfoInputs.cache
+C:\Users\vrvi\repos\compiladores\obj\Debug\net6.0\compiladores.AssemblyInfo.cs
+C:\Users\vrvi\repos\compiladores\obj\Debug\net6.0\compiladores.csproj.CoreCompileInputs.cache
+C:\Users\vrvi\repos\compiladores\obj\Debug\net6.0\compiladores.dll
+C:\Users\vrvi\repos\compiladores\obj\Debug\net6.0\refint\compiladores.dll
+C:\Users\vrvi\repos\compiladores\obj\Debug\net6.0\compiladores.pdb
+C:\Users\vrvi\repos\compiladores\obj\Debug\net6.0\compiladores.genruntimeconfig.cache
+C:\Users\vrvi\repos\compiladores\obj\Debug\net6.0\ref\compiladores.dll
